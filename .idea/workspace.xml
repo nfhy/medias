@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063a9e50-75fb-41f0-9907-e298e2aeca2d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Astar.html" afterPath="$PROJECT_DIR$/html/Astar.html" />
-    </list>
+    <list default="true" id="063a9e50-75fb-41f0-9907-e298e2aeca2d" name="Default" comment="" />
     <ignored path="medias.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
