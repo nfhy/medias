@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063a9e50-75fb-41f0-9907-e298e2aeca2d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/BLOG.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/BFS.html" afterPath="$PROJECT_DIR$/html/BFS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Bstar.html" afterPath="$PROJECT_DIR$/html/Bstar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/DIJ.html" afterPath="$PROJECT_DIR$/html/DIJ.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/GBF.html" afterPath="$PROJECT_DIR$/html/GBF.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/Diagonal-Astar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Diagonal-Astar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/raw-Astar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/raw-Astar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="medias.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +37,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BFS.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="raw-Astar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/raw-Astar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.115384616">
+              <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diagonal-Astar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/Diagonal-Astar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="90" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Astar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Astar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diagonal-Astar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Diagonal-Astar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="raw-Astar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/raw-Astar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="256" column="53" selection-start-line="256" selection-start-column="53" selection-end-line="256" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFS.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/BFS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07692308">
-              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="78" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -90,6 +140,10 @@
         <option value="$PROJECT_DIR$/html/DIJ.html" />
         <option value="$PROJECT_DIR$/html/GBF.html" />
         <option value="$PROJECT_DIR$/html/BFS.html" />
+        <option value="$PROJECT_DIR$/js/Diagonal-Astar.js" />
+        <option value="$PROJECT_DIR$/js/raw-Astar.js" />
+        <option value="$PROJECT_DIR$/html/Diagonal-Astar.html" />
+        <option value="$PROJECT_DIR$/html/raw-Astar.html" />
       </list>
     </option>
   </component>
@@ -111,7 +165,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -135,6 +189,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="medias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medias" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medias" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -171,6 +239,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="true" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Astar.html">
     <configuration default="false" name="Astar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/medias/html/Astar.html">
@@ -235,7 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -272,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Astar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/DIJ.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
@@ -306,8 +372,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/BFS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07692308">
-          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Astar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/raw-Astar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="256" column="53" selection-start-line="256" selection-start-column="53" selection-end-line="256" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Astar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Diagonal-Astar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Diagonal-Astar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="90" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/raw-Astar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.115384616">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
           <folding />
         </state>
       </provider>
