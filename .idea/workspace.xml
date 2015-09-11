@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063a9e50-75fb-41f0-9907-e298e2aeca2d" name="Default" comment="" />
+    <list default="true" id="063a9e50-75fb-41f0-9907-e298e2aeca2d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/BLOG.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/BFS.html" afterPath="$PROJECT_DIR$/html/BFS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Bstar.html" afterPath="$PROJECT_DIR$/html/Bstar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/DIJ.html" afterPath="$PROJECT_DIR$/html/DIJ.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/GBF.html" afterPath="$PROJECT_DIR$/html/GBF.html" />
+    </list>
     <ignored path="medias.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +27,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Astar.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Astar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/Astar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13461539">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/BFS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07692308">
+              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bstar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/Bstar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="101" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DIJ.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/DIJ.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GBF.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/GBF.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
               <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
               <folding />
             </state>
@@ -40,6 +86,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/html/Astar.html" />
+        <option value="$PROJECT_DIR$/html/Bstar.html" />
+        <option value="$PROJECT_DIR$/html/DIJ.html" />
+        <option value="$PROJECT_DIR$/html/GBF.html" />
+        <option value="$PROJECT_DIR$/html/BFS.html" />
       </list>
     </option>
   </component>
@@ -185,7 +235,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -224,8 +274,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/Astar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13461539">
+        <state vertical-scroll-proportion="-4.375">
           <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/DIJ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/GBF.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Bstar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/BFS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07692308">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
           <folding />
         </state>
       </provider>
