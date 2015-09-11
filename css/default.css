@@ -1,0 +1,85 @@
+.map{
+    width: 600px;
+    height: 400px;
+    border: darkcyan 1px;
+    background-color: bisque;
+    float: left;
+}
+
+.outer{
+    width: 600px;
+    height: 350px;
+    text-align: center;
+}
+
+.grid,.grid-double{
+    line-height: 19px;
+    border: solid 1px;
+    margin-bottom: -1px;
+    margin-right: -1px;
+    border-color: antiquewhite;
+    border-collapse: collapse;
+    float: left;
+    overflow: hidden;
+    font-size: 10%;
+}
+
+.grid{
+    width: 19px;
+    height: 19px;
+}
+
+.grid-double{
+    width: 39px;
+    height: 39px;
+}
+
+.grid-start{
+    background-color: gold;
+    color: red;
+}
+
+.grid-end{
+    background-color: brown;
+}
+
+.grid-inPath{
+    color: red;
+}
+
+.grid-inPath2{
+    background-color: azure;
+}
+
+.grid-open{
+    background-color: lightblue;
+}
+
+.grid-close{
+    background-color: palegoldenrod;
+}
+
+.grid-plain{
+    background-color: ivory;
+}
+
+.grid-hill{
+    background-color: dimgray;
+}
+
+.grid-forest{
+    background-color: chartreuse;
+}
+
+.grid-impassable{
+    background-color: lightsteelblue;
+}
+
+.button_{
+    width: 120px;
+    height: 30px;
+    border: solid 1px;
+    border-color: gold;
+    background-color: linen;
+    margin: auto;
+}
